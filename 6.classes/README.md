@@ -15,6 +15,8 @@ https://github.com/bezymel/PyCharm/blob/main/students_and_mentor.py
 
 ## Ответ № 2.
 
+https://github.com/bezymel/PyCharm/blob/main/students_and_mentor%20(2).py
+
 ## Задание № 3. Полиморфизм и магические методы
 1. Перегрузите магический метод ```__str__``` у всех классов. 
 
