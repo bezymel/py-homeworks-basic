@@ -131,7 +131,7 @@ https://github.com/bezymel/recipes/blob/main/recipes2.py
 
 ## Ответ №3
 
-
+https://github.com/bezymel/recipes/blob/main/recipes3.py
 
 ## Задача №4
 Для подготовки к следующей лекции прочитайте про [менеджер контекста](https://habr.com/ru/post/196382/).
