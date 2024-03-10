@@ -96,6 +96,8 @@ get_shop_list_by_dishes(['Запеченный картофель', 'Омлет'
 
 ## Ответ №2
 
+https://github.com/bezymel/recipes/blob/main/recipes2.py
+
 ## Задача №3
 В папке лежит некоторое количество файлов. Считайте, что их количество и имена вам заранее известны, пример для выполнения домашней работы можно взять [тут](https://github.com/netology-code/py-homework-basic-files/tree/master/2.4.files/sorted)  
 
