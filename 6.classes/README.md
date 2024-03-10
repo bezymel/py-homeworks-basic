@@ -58,6 +58,9 @@ https://github.com/bezymel/PyCharm/blob/main/students_and_mentor%20(3).py
 
 ## Ответ № 4.
 
+https://github.com/bezymel/PyCharm/blob/main/students_and_mentor%20(4).py
+
+https://github.com/bezymel/PyCharm/tree/main
 
 ## Как сдавать задачи
 Пишите код в IDE (рекомендуем [Pycharm](https://www.jetbrains.com/ru-ru/pycharm/download/#section=windows), версия Community, инструкцию по установке вы найдете на сайте).  
