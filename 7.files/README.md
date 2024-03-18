@@ -69,7 +69,7 @@ cook_book = {
 ```
 ## Ответ №1
 
-https://github.com/netology-code/py-homework-basic-files/blob/master/2.4.files/recipes.txt
+https://github.com/bezymel/recipes/blob/main/recipes.py
 
 ## Задача №2
 Нужно написать функцию, которая на вход принимает список блюд из cook_book и количество персон для кого мы будем готовить
